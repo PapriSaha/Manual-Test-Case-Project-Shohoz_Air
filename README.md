@@ -23,3 +23,5 @@ This project include-
 - **Test Summary Report**: A test summary report in a test case project offers a high-level overview of the testing activities and results. It highlights the key findings, metrics, and observations from the testing efforts.
 
 - **Test Metrics**: Test metrics in a test case project are quantitative measurements that provide insights into the effectiveness and progress of the testing process. They help evaluate the quality of the software and offer valuable data for decision-making and process improvement.
+
+![ManualTesting_Process](https://github.com/PapriSaha/Manual-Test-Case-Project-Shohoz_Air/blob/master/assets/ManualTesting_Process.png)
