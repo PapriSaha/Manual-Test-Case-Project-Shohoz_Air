@@ -8,6 +8,10 @@ This project provides a comprehensive set of manual test cases for the Shohoz Ai
 
 ![Test Case Report_Shohoz Air](https://github.com/PapriSaha/Manual-Test-Case-Project-Shohoz_Air/blob/master/Test%20Case%20Report_Shohoz%20Air.png)
 
+## Test Case Report
+
+https://docs.google.com/spreadsheets/d/1SuT4YAGbErTwnil8vInWXXjVqCB7QNOc/edit?usp=sharing&ouid=109820204652521723097&rtpof=true&sd=true
+
 This project include-
 
 - **Test Scenarios**: Test scenarios in a test case project are high-level descriptions of functionalities and conditions that need to be tested. They represent real-world use cases of the software application, ensuring that all aspects of the system are validated against expected behavior. Test scenarios help identify key areas of the application to focus on and guide the creation of detailed test cases. They provide a clear overview of what needs to be tested and help ensure comprehensive coverage of the application's features and requirements.
